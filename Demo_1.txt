@@ -1,4 +1,5 @@
 Iam Learning git commands and how to use git.
-So this is my first experience in working with git using git bash.
+So this is my first experience in working with git using git bash - changing from my_branch
+
 --------------------------------------------------------------------------------------------------------------------------
 
