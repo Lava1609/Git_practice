@@ -1,4 +1,4 @@
 git task
 
-conflict
+conflict remote
 
