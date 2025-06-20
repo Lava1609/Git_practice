@@ -1,6 +1,12 @@
 Iam Learning git commands and how to use git.
+<<<<<<< HEAD
 So this is my first experience in working with git using git bash.
 
 This change from workspace_2.
 This change from workspace_2 and my_branch_2 second_time.
+=======
+So this is my first experience in working with git using git bash - changing from my_branch
+
+--------------------------------------------------------------------------------------------------------------------------
+>>>>>>> 0ec6162095e7e463c89b8780e3508f13fca87bc4
 
