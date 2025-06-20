@@ -1,6 +1,11 @@
 Iam Learning git commands and how to use git.
 So this is my first experience in working with git using git bash.:w
-
 This editing from workspace_3 and my_branch_3
-
+So this is my first experience in working with git using git bash.
+This change from workspace_2.
+This change from workspace_2 and my_branch_2 second_time.
+So this is my first experience in working with git using git bash - changing from my_branch
+GIT TASK
+Line to modified ------
+From workspace_1
 
