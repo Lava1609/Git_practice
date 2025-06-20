@@ -1,7 +1,4 @@
-GIT TASK
+Git task
 
-
-Line to modified ------
-
-From workspace_1
+make conflict
 
