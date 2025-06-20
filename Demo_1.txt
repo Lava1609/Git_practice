@@ -1,2 +1,6 @@
 Iam Learning git commands and how to use git.
 So this is my first experience in working with git using git bash.:w
+
+This editing from workspace_3 and my_branch_3
+
+
