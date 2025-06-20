@@ -1,6 +1,6 @@
 Iam Learning git commands and how to use git.
 So this is my first experience in working with git using git bash.
 
-This change from workspace_2 and my_branch_2.
+This change from workspace_2.
 This change from workspace_2 and my_branch_2 second_time.
 
